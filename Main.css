@@ -1,0 +1,48 @@
+body{
+	background-color: white;
+	font-family: Gill Sans
+}
+h1{
+	font-family: Futura; 
+}	
+
+a{
+	color: #888;
+}
+.secondary{
+	color: #0f0f0f;
+	background: #ebebeb;
+	padding: 10px;
+	text-decoration: none;
+	box-shadow: 5px 5px 5px #ddd;
+}
+
+ul li{
+	display: inline;
+	list-style-type: none;
+	margin-left: 20px;
+}
+
+header h1{
+	margin: 0px;
+	display: inline;
+	text-decoration: none;
+}
+
+.tertiary{  
+	display: inline-block;
+}
+
+.tertiary a {
+    color: #888;
+    text-decoration: none;
+}
+
+img{
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+div .non{
+	background-color: #ddd;
+	padding: 5px 5px 5px 5px;
+}
